@@ -1,0 +1,89 @@
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.config
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.pdb
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.xml
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Resources.resources
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.GenerateResource.cache
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.xml
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.pdb
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Issue_Leave.resources
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Form3.resources
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Dashboard.resources
+C:\Users\steph\source\repos\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.WorkingDay.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.config
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.pdb
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.xml
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Resources.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.GenerateResource.cache
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.xml
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.pdb
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.login.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.manage_users.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.splashscreen.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.GeneralReport.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Dashboardd.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.test.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.test22.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.RegisterEmployee.resources
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.manifest
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.application
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.TrustInfo.xml
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe.manifest
+C:\Users\steph\Desktop\LEAVE KNLS\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.application
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.config
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.manifest
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.application
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.pdb
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.xml
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Dashboardd.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.GeneralReport.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.login.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.manage_users.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Resources.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.splashscreen.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.test.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.test22.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.RegisterEmployee.resources
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.TrustInfo.xml
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe.manifest
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.application
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.xml
+C:\Users\Sammy Mulandi\Downloads\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.pdb
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.config
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.manifest
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.application
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.pdb
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.xml
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.AssemblyReference.cache
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.SuggestedBindingRedirects.cache
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Dashboardd.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.GeneralReport.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.login.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.manage_users.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Resources.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.splashscreen.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.test.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.test22.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.RegisterEmployee.resources
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.GenerateResource.cache
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.vbproj.CoreCompileInputs.cache
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.TrustInfo.xml
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe.manifest
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.application
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.xml
+F:\AASAAAA\LeaveManagementSystem\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.pdb
